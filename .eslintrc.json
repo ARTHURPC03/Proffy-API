@@ -32,7 +32,8 @@
             }
           ],
           "prettier/prettier": "error",
-          "semi":"off"
+          "semi":"off",
+          "camelcase": "off"
     },
     "settings": {
         "import/resolver": {
