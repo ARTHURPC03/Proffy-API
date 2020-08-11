@@ -65,4 +65,12 @@ $ npm run start
 
 ```
 
+<a href="https://www.youtube.com/c/arthurpc">
+<img src="./github/youtube.png" alt="youtube" height="50"></a>
+<a href="https://www.linkedin.com/in/arthurpc03/">
+<img src="./github/linkedin.png" alt="linkedin" height="50"></a>
+<br />
 
+Veja meu canal no Youtube: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
+
+Veja meu Linkedin: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
