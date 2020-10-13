@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Proffy Mobile com Theme Switcher</h1>
+<h1 style="text-align: center; font-weight: bold;">Proffy com Theme Switcher</h1>
 
 ## Demo 📸
 
